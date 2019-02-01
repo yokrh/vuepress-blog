@@ -1,6 +1,5 @@
 ---
-title: test page
-date: 2019-02-01
+title: 
 ---
 
 ```js
@@ -13,7 +12,6 @@ export default {
 </script>
 ```
 See console log.
-
 
 <script>
 export default {

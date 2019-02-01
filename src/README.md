@@ -1,16 +1,13 @@
 ---
 home: true
-# heroImage: /hero.png
-heroText: Hero Title
-tagline: Hero subtitle
-actionText: action text →
-actionLink: /sandbox/
+heroText: yokrhのブログ
+tagline: 2019/02/01〜?
+actionText: 記事一覧
+actionLink: /article/
 features:
-- title: Feature 1
-  details: feature detail 1.
-- title: Feature 2
-  details: feature detail 2.
+- title: 日常的なこと
+  details: 楽しいことあったら書きたい
+- title: 技術的なこと
+  details: とても元気があったら書きたい
 ---
 
-# Hello VuePress
-Home
